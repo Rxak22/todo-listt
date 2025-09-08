@@ -1,4 +1,4 @@
-# Rodo List
+# Todo List
 
 ## Recommended IDE Setup
 
